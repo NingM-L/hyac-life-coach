@@ -23,7 +23,7 @@ Hyac Life Coach 是一个面向 RikkaHub Agent 手机端的长期学习教练 Sk
 
 `hyac-life-coach.zip`
 
-解压后导入 RikkaHub Agent。
+导入 RikkaHub Agent。
 
 ## 使用方式
 
