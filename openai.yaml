@@ -1,4 +1,0 @@
-interface:
-  display_name: "Hyac Life Coach 2.0"
-  short_description: "复用现有工作区，用英语主线、听说读写和 Nexus 提醒陪你学习六个月"
-  default_prompt: "Use $hyac-life-coach in Chinese. First detect and reuse my existing workspace root, then build and confirm my learner profile, run a short baseline assessment, create an English mainline with listening, speaking, reading, and writing skills, maintain daily reports including study spending, and synchronize RikkaHub reminders without creating nested learning-vault folders or duplicate jobs."
